@@ -4,7 +4,7 @@ This is an example integration of the YouTube API using Go.
 
 # Setup
 
-Make sure `API_KEY` in the `main.go` file is set to a valid API key.
+Create a `.env` file containing your YouTube API key.
 
 # Running
 
